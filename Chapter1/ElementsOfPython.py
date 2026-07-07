@@ -16,8 +16,8 @@
 
 # Repeated Code
 c = 20
-while (c > 0):
-    if (c % 3 == 0):
+while c > 0:
+    if c % 3 == 0:
         print("Hop")
     else:
         print(c)
